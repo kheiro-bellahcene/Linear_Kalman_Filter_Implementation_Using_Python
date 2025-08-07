@@ -1,5 +1,8 @@
-
 # 2D Vehicle Tracking Using Linear Kalman Filter
+
+## Simulation and Results
+
+![Kalman Tracking GIF](images/kalman_tracking.gif)
 
 This project demonstrates the use of a Linear Kalman Filter to track a vehicleâ€™s position and velocity in 2D space.
 
@@ -18,5 +21,3 @@ This project demonstrates the use of a Linear Kalman Filter to track a vehicleâ€
 ## Conclusion
 
 The Linear Kalman Filter proves effective for 2D vehicle tracking, providing accurate and reliable state estimation.
-
----

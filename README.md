@@ -1,4 +1,4 @@
-# 🚗📡 2D Vehicle Tracking Using Linear Kalman Filter
+# 🚗📡 2D Vehicle Tracking Using Linear Kalman Filter 
 
 ## 🎯 Simulation and Results
 

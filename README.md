@@ -2,7 +2,7 @@
 
 ## 🎯 Simulation and Results
 
-![Kalman Tracking GIF](demo/kalman_tracking.gif)
+![Kalman Tracking GIF](demo/kalman_tracking.gif) 
 
 This project demonstrates the use of a **Linear Kalman Filter** to track a vehicle’s position and velocity in 2D space.
 
